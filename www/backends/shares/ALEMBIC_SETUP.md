@@ -2,6 +2,10 @@
 [read more](https://testdriven.io/blog/fastapi-sqlmodel/)
 Installing Alembic...
 
+ghp_
+ysrFuIZwSeMFpBOe3UWi5zWF9UnSqa1BnPRx
+
+
 ```bash
 pip install alembic
 ```
